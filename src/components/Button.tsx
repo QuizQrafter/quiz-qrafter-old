@@ -7,9 +7,7 @@ type ButtonProps = {
 
 const Button = ({ href, title }: ButtonProps) => {
   return (
-    <Link href={href}>
-    <a href={href} className="inline-block bg-black text-white py-2 px-6 rounded hover:bg-gray-700 transition duration-300">{title}</a>
-    </Link>
+    <Link href={href} className="inline-block bg-black text-white py-2 px-6 rounded hover:bg-gray-700 transition duration-300">{title}</Link>
   );
 };
 

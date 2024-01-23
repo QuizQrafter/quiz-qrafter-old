@@ -9,7 +9,7 @@ export default function HomePage() {
     // We may want to get these testimonials from a static file or API
   const testimonials = [
     { quote: 'This app has been a game-changer for my studies.', author: 'Jason Parsons', title: '4th Year CS Student' },
-    { quote: 'This app has been a game-changer for my studies.', author: 'Jenny Ma', title: '4th Year CS Student' },
+    { quote: 'This app has been a game-changer for my studies.', author: 'Akshay Rash', title: '4th Year CS Student' },
     { quote: 'This app has been a game-changer for my studies.', author: 'Nikos Dritsakos', title: '4th Year CS Student' },
     { quote: 'This app has been a game-changer for my studies.', author: 'Luke Reinaerts', title: '4th Year CS Student' },
     { quote: 'This app has been a game-changer for my studies.', author: 'Gideon O', title: '4th Year CS Student' },

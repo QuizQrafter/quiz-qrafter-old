@@ -12,7 +12,7 @@ export default function HomePage() {
     { quote: 'This app has been a game-changer for my studies.', author: 'Akshay Rash', title: '4th Year CS Student' },
     { quote: 'This app has been a game-changer for my studies.', author: 'Nikos Dritsakos', title: '4th Year CS Student' },
     { quote: 'This app has been a game-changer for my studies.', author: 'Luke Reinaerts', title: '4th Year CS Student' },
-    { quote: 'This app has been a game-changer for my studies.', author: 'Gideon O', title: '4th Year CS Student' },
+    { quote: 'This app has been a game-changer for my studies.', author: 'Gideon Oludeyi', title: '4th Year CS Student' },
     { quote: 'This app has been a game-changer for my studies.', author: 'Kelvin Odinamadu', title: '4th Year CS Student' },
     { quote: 'This app has been a game-changer for my studies.', author: 'Jingyi Ma', title: '4th Year CS Student' },
   ];
